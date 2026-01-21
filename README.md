@@ -12,8 +12,8 @@ kullanılan teknolojiler
 .DIL: C++
 .KUTUPHANELER
 
-
+<img width="1920" height="1020" alt="Screenshot 2026-01-21 164122" src="https://github.com/user-attachments/assets/ea17232d-b344-4ce0-aa5b-84b4b19fc70c" />
 <img width="1483" height="762" alt="Screenshot 2026-01-21 164338" src="https://github.com/user-attachments/assets/df11146f-a1d2-4cd7-b3cf-dcbefb417946" />
 <img width="1483" height="762" alt="Screenshot 2026-01-21 164407" src="https://github.com/user-attachments/assets/fe938eb3-2588-4159-8f65-b17fb366c91c" />
 <img width="1483" height="762" alt="Screenshot 2026-01-21 164432" src="https://github.com/user-attachments/assets/4d9f6eba-bfff-4e0b-a4c5-48d0f712d788" />
-<img width="1920" height="1020" alt="Screenshot 2026-01-21 164122" src="https://github.com/user-attachments/assets/ea17232d-b344-4ce0-aa5b-84b4b19fc70c" />
+

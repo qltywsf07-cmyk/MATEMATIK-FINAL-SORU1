@@ -6,9 +6,10 @@ BOLUM: MUHENDISLIK VE DOGA BILIMLERI FAKULTESI (BILGISAYAR MUHENDISLIGI)
 Matematik Final – 1. Soru
 Bu projede matematik final sınavı 1. sorusunun çözümü yer almaktadır.
 
-Proje Açıklaması:"Bu proje, $ax^2 + bx + c = 0$ genel formundaki ikinci dereceden denklemlerin köklerini hesaplamak amacıyla C++ programlama dili kullanılarak geliştirilmiştir. Program, kullanıcıdan a, b ve c katsayılarını cin komutuyla alır ve $\Delta = b^2 - 4ac$ formülünü kullanarak diskriminantı hesaplar. Hesaplanan delta değerine göre if-else kontrol yapıları kullanılarak denklemin gerçek kökünün olup olmadığı, tek kökü mü yoksa iki farklı kökü mü olduğu belirlenir. Sonuçlar ve hesaplanan kök değerleri, cmath kütüphanesindeki karekök fonksiyonu yardımıyla bulunarak ekrana yazdırılır."
+# Proje Açıklaması:
+"Bu proje, $ax^2 + bx + c = 0$ genel formundaki ikinci dereceden denklemlerin köklerini hesaplamak amacıyla C++ programlama dili kullanılarak geliştirilmiştir. Program, kullanıcıdan a, b ve c katsayılarını cin komutuyla alır ve $\Delta = b^2 - 4ac$ formülünü kullanarak diskriminantı hesaplar. Hesaplanan delta değerine göre if-else kontrol yapıları kullanılarak denklemin gerçek kökünün olup olmadığı, tek kökü mü yoksa iki farklı kökü mü olduğu belirlenir. Sonuçlar ve hesaplanan kök değerleri, cmath kütüphanesindeki karekök fonksiyonu yardımıyla bulunarak ekrana yazdırılır."
 
-kullanılan teknolojiler
+# kullanılan teknolojiler
 .DIL: C++
 .KUTUPHANELER
 
